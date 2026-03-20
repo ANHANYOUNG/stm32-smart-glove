@@ -2,7 +2,7 @@
 Debug/
 Release/
 build/
-
+*.pdf
 # generated object / dependency / map files
 *.o
 *.d
